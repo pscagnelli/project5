@@ -1,7 +1,7 @@
 # ML Investing
 
 
-# This project serves as a guide to the some of the focal points in a ML investing process. The two main parts that the project goes into detail are Portfolio Management and Stock Prediction.
+## This project serves as a guide to the some of the focal points in a ML investing process. The two main parts that the project goes into detail are Portfolio Management and Stock Prediction.
 
 # Stock prediction is done tradtionally through regression. However, this project delves into more recent methods that've shown progress such as LSTM RNN models, and Sentiment Analysis. From the results, I believe we could improve the project by gathering more data based on satalite imagry to predict quarterly returns for physical stores. I would also try obtaining more technical analysis features to improve neural network and Sentiment analysis peformance. 
 
